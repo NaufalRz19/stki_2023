@@ -11,3 +11,5 @@ wordEmbedding (file tugas Minggu 5)
 word2vec (file tugas Minggu 6)
 
 Evaluasi (file tugas Minggu 7)
+
+Klasifikasi Text Mining Naive Bayes (file tugas Minggu 8)
