@@ -15,3 +15,7 @@ Evaluasi (file tugas Minggu 7)
 Klasifikasi Text Mining Naive Bayes (file tugas Minggu 8)
 
 Klasifikasi Text Mining-NB-KNN (file tugas Minggu 9)
+
+TextClustering (file tugas Minggu 10)
+
+TextSummarization (file tugas Minggu 11)
